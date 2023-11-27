@@ -14,7 +14,9 @@ sudo ./stunnel-install
 
 ## Compatible Distros
 Debian/Ubuntu based
+
 Redhat based -- Untested
+
 Arch based distros -- Untested 
 
 ## To-do (eventually)
