@@ -7,6 +7,7 @@ Heard of [openvpn-install?](https://github.com/angristan/openvpn-install) yeah, 
 Simply put, you just download the script and run it as root
 
 ```
+wget https://raw.githubusercontent.com/AO554/stunnel-install/main/install-stunnel.sh
 chmod +x stunnel-install.sh
 sudo ./stunnel-install
 ```
